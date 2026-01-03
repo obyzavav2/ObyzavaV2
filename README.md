@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✨ Obyzava
 
-<!--
-**obyzavav2/ObyzavaV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Приветствую в моём цифровом пространстве! Здесь собраны все важные ссылки и проекты. Добро пожаловать!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои основные ресурсы
+
+| | |
+| :--- | :--- |
+| **👻 Скам-лист & Канал** | Основной телеграм-канал с актуальной информацией и скам-листом.<br>➡️ [https://t.me/CKAM_OBYZAVA](https://t.me/CKAM_OBYZAVA) |
+| **⚜️ Персональный сайт** | Официальный сайт с визиткой и проектами.<br>🌐 [https://obyzavav2.github.io/ObyzavaV2/](https://obyzavav2.github.io/ObyzavaV2/) |
+| **🌎 Портфолио** | Галерея моих работ и достижений в оформленном портфолио.<br>🎨 [https://obyzavav2.github.io/Portfolio-Obyzava](https://obyzavav2.github.io/Portfolio-Obyzava) |
+| **🤓 Работы** | Канал с примерами выполненных работ и кейсами.<br>💼 [https://t.me/Works_Obyzava](https://t.me/Works_Obyzava) |
+| **🖤 YouTube** | Мой канал на YouTube с видео и стримами.<br>▶️ [https://www.youtube.com/@Obyzava](https://www.youtube.com/@Obyzava) |
+
+## 🌟 Профили на платформах
+
+| | |
+| :--- | :--- |
+| **⭐ Endway** | Профиль на форуме Endway.<br>➡️ [https://endway.org/members/obyzava.56812/](https://endway.org/members/obyzava.56812/) |
+| **✅ Lolz.guru** | Профиль на Lolz.live.<br>➡️ [https://lolz.live/members/9374684/](https://lolz.live/members/9374684/) |
+
+## 📞 Связь
+
+**Личный Telegram:** [@Obyzava](https://t.me/Obyzava)  
+*Для быстрой связи и вопросов.*
+
+---
+
+> *Спасибо, что заглянули! Хорошего дня! 😊*
