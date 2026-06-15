@@ -112,7 +112,7 @@
 
 <div align="center">
 
-[![Сайт](https://img.shields.io/badge/⚜️_Сайт-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://obyzavav2.github.io/ObyzavaV2/)
+[![Сайт](https://img.shields.io/badge/⚜️_Снесли-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://obyzavav2.github.io/ObyzavaV2/)
 [![Портфолио](https://img.shields.io/badge/🎨_Портфолио-FF6B6B?style=for-the-badge&logo=adobeportfolio&logoColor=white)](https://obyzavav2.github.io/Portfolio-Obyzava)
 [![YouTube](https://img.shields.io/badge/🎬_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Obyzava)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obyzavav2)
@@ -129,7 +129,7 @@
 - 🐙 GitHub: [obyzavav2](https://github.com/obyzavav2) — issue, PR, обсуждения
 
 **Поддержать проект:**
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/твой-юзернейм)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/obyzavav2)
 
 ---
 
